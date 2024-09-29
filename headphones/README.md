@@ -33,17 +33,4 @@ This project is a fully responsive web page built as part of the ALX Front-End p
    - Clean and consistent with the overall page design.
    - Includes links and social media icons.
 
-## Technologies Used
 
-- **HTML5**
-- **CSS3** (Flexbox, Grid, Animations)
-- **Figma** (Design reference)
-- **Custom Fonts**: Source Sans Pro and Spin Cycle OT
-- **CSS Variables**: For easy theme updates and consistent styling across the project.
-
-## How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/zakariaboukha/alx_html_css.git
